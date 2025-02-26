@@ -24,7 +24,7 @@ class script(object):
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
 ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a> 
 ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
-‣ 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href='https://t.me/+1RmA0GN7LhExYzA9/'>🔥sᴀɴᴀᴛᴀɴ ᴅʜᴀʀᴍ 🚩</a>
+☆ 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href='https://t.me/+1RmA0GN7LhExYzA9/'>🔥sᴀɴᴀᴛᴀɴ ᴅʜᴀʀᴍ 🚩</a>
 
     CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
     
