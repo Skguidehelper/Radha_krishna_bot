@@ -17,7 +17,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://envs.sh/e4I.jpg https://envs.sh/icL.jpg https://envs.sh/e4q.jpg https://envs.sh/e4i.jpg https://envs.sh/icL.jpg https://envs.sh/icZ.jpg https://envs.sh/icc.jpg https://envs.sh/icj.jpg https://envs.sh/ic_.jpg https://envs.sh/e4t.jpg')).split()
+PICS = (environ.get('PICS', 'https://envs.sh/icL.jpg https://envs.sh/e4q.jpg https://envs.sh/e4i.jpg https://envs.sh/icL.jpg https://envs.sh/icZ.jpg https://envs.sh/icc.jpg https://envs.sh/icj.jpg  https://envs.sh/e4t.jpg')).split()
 
 
 # Admins & Users
@@ -178,7 +178,7 @@ AUTO_APPROVE_MODE = bool(environ.get('AUTO_APPROVE_MODE', False)) # Set True or 
 
 
 # Start Command Reactions
-REACTIONS = ["🤝", "😇", "🤗", "😍", "👍", "🦚", "😐", "🥰", "🤩", "😱", "🌸", "👍", "👏", "🙌", "😈", "🎉", "⚡️", "🫡", "🤓", "😎", "🏆", "🔥", "🤭", "✨", "🕉", "🚩", "😇"] #don't add any emoji because tg not support all emoji reactions
+REACTIONS = ["🤝", "😇", "🤗", "😍", "👍", "🦚", "😐", "🥰", "🤩", "😱", "🌸", "👍", "👏", "🙌", "😈", "🎉", "⚡️", "🫡", "🤓", "😎", "🏆", "🔥", "🤭", "✨", "🤩", "🚩", "😇"] #don't add any emoji because tg not support all emoji reactions
 
 
 if MULTIPLE_DATABASE == False:
