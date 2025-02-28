@@ -2,10 +2,10 @@
   <img src="https://envs.sh/9O.jpg" alt="Alexa Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  Alexa Bot
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Alexa+Bot!)
 </p>
 
 ## Main Feature 
